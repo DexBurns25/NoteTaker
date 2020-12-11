@@ -39,6 +39,8 @@ DELETE /api/notes/:id - Should receive a query parameter containing the id of a 
 
 
 
+
+
 User Story
 AS A user, I want to be able to write and save notes
 I WANT to be able to delete notes I've written before
@@ -51,6 +53,11 @@ Acceptance Criteria
 Application should allow users to create and save notes.
 Application should allow users to view previously saved notes.
 Application should allow users to delete previously saved notes.
+
+
+
+
+
 
 Deploying the App
 You will not be able to deploy your server side code on GitHub pages. This app should be deployed on Heroku. Carefully follow the Heroku Guide for getting your app deployed on Heroku.
