@@ -12,6 +12,10 @@ https://github.com/DexBurns25/NoteTaker.git
 
 
 
+https://dexburns25.github.io/NoteTaker/.
+
+
+
 
 
 
