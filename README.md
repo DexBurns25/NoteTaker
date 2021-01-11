@@ -36,7 +36,7 @@ Screenshots
 
 
 Repo:
-
+https://github.com/DexBurns25/NoteTaker.git
 
 
 Heroku:
