@@ -26,7 +26,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 
 Screenshots
-<img width="1115" alt="screenshot2" src="https://user-images.githubusercontent.com/71415601/104219249-e0ee0200-540b-11eb-8190-b3daae9a646e.png">
+<img width="1116" alt="screenshot1" src="https://user-images.githubusercontent.com/71415601/104222380-33c9b880-5410-11eb-90e8-6aa644ec738d.png">
 
 
 
